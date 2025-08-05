@@ -13,6 +13,15 @@ The goal is to analyze differences between **casual riders** and **annual member
 - **Dashboard Visualization**: Built in **Tableau Public** to present findings interactively.
 - **Business Recommendations**: Derived from behavioral trends observed in the data.
 
+## 🧾 Kaggle Notebook
+
+👉 [Click here to view the full analysis notebook](https://www.kaggle.com/code/ainurkakimova/codes-for-data-analysis-in-sql)
+
+This notebook contains:
+- SQL queries for data preparation and exploration
+- Descriptive statistics and comparisons across rider types
+- Commentary explaining each step
+
 ## 🛠 Tools & Technologies
 
 - Google BigQuery (SQL)
